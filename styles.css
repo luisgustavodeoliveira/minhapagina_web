@@ -6,11 +6,22 @@ background: ESCOLHA UMA COR;
 #titulo1 {
 text-align: center;
 font-size: 50px;
-color: ESCOLHA UMA COR;}
+color:  black;}
 
 .p1 {
 text-align:justify;
 font-size: 20px;
-color: ESCOLHA UMA COR;}
+color: white;}
 
-.p2
+.p2 {
+text-align: justify;
+font-size: 20px;
+color: orange;}
+#img1 {
+display: block;
+margin: 0 auto;}
+
+#titulo2 {
+text-align: center
+font-size: 30px;
+color:  purple;}
